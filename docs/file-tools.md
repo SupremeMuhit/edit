@@ -24,7 +24,7 @@
 
 ***
 
-* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader.md)**
+* ⭐ **[JDownloader](https://jdownloader.org/jdownloader2)** - Download Manager / **[Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/jdownloader-warning.md)**
 * ⭐ **JDownloader Tools** - [Debloat Guide](https://claraiscute.neocities.org/Guides/jdownloader2/), [2](https://claraiscute.pages.dev/Guides/jdownloader2/) / [Apps](https://my.jdownloader.org/apps/) / [Dark Theme](https://github.com/moktavizen/material-darker-jdownloader), [2](https://redd.it/q3xrgj) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * ⭐ **[AB Download Manager](https://abdownloadmanager.com/)** - Download Manager / [Telegram](https://t.me/abdownloadmanager_discussion) / [GitHub](https://github.com/amir1376/ab-download-manager)
 * ⭐ **[IDM](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/download#wiki_.25BA_software_sites)**, [2](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/games#wiki_.25BA_download_games) (search) - Download Manager / [Firefox](https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/) / [Chrome](https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek)
@@ -73,7 +73,7 @@
 * [videoutils](https://www.videoutils.com/) - File Converter / 500MB
 * [⁠OfflineConvert](https://www.offlineconvert.com/) - File Converter
 * [Xconvert](https://www.xconvert.com) - File Converter / 400MB
-* [FeeConvert](https://www.freeconvert.com/) - Unlimited / Clear Cookies
+* [FreeConvert](https://www.freeconvert.com/) - Unlimited / Clear Cookies
 * [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
 * [Convertio](https://convertio.co/) - File Converter / 100MB
 * [AnyConvert](https://anyconv.com/) - File Converter / 100MB
@@ -151,7 +151,7 @@
 * [duplicity](https://duplicity.gitlab.io/) - File Backup
 * [Duplicati](https://www.duplicati.com/) - File Backup
 * [AOMEI Backupper](https://www.ubackup.com/) - File Backup
-* [Borg](https://www.borgbackup.org/) - De-duplicating File Backup
+* [Borg](https://www.borgbackup.org/) - De-duplicating File Backup / [WebUI](https://github.com/karanhudia/borg-ui)
 * [USBImager](https://bztsrc.gitlab.io/usbimager/) - USB Image Backup
 
 ***
@@ -225,16 +225,15 @@
 
 ## ▷ Online PDF Toolkits
 
-* ⭐ **[BentoPDF](https://bentopdf.com/)** / Web-Based / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[BentoPDF](https://bentopdf.com/)** - Client-Side / [GitHub](https://github.com/alam00000/bentopdf)
+* ⭐ **[⁠ihatepdf](https://www.ihatepdf.cv/)** - Client-Side
+* [BreezePDF](https://breezepdf.com/) - Client-Side
+* [PDFClear](https://www.pdfclear.com/) - Client-Side
+* [DigiPDF](https://digipdf.app/?lang=en_US) - Client-Side
 * [Sejda](https://www.sejda.com/)
 * [ILovePDF](https://www.ilovepdf.com/)
-* [BreezePDF](https://breezepdf.com/)
-* [⁠ihatepdf](https://www.ihatepdf.cv/)
 * [⁠PDRResizer](https://pdfresizer.com/)
-* [DigiPDF](https://digipdf.app/?lang=en_US)
 * [PDF2Go](https://www.pdf2go.com/)
-* [PDFClear](https://www.pdfclear.com/)
-* [SimplePDF](https://simplepdf.com/)
 * [DPDF](https://dpdf.com/)
 * [Digiparser](https://www.digiparser.com/free-tools/pdf)
 
@@ -285,7 +284,7 @@
 * [OnionShare](https://onionshare.org/) - Share Files Over Tor Network
 * [FileZilla](https://filezilla-project.org/download.php?show_all=1) - FTP Client / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filezilla.md)
 * [WinSCP](https://winscp.net/eng/index.php) - FTP Client
-* [⁠robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [GUI](https://ar-puuk.github.io/robocopy-gui/)
+* [⁠robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Windows Built-In File Transfer Guide / [WebUI](https://ar-puuk.github.io/robocopy-gui/)
 
 ***
 
@@ -293,11 +292,9 @@
 
 * ⭐ **[PairDrop](https://pairdrop.net/)** / [GitHub](https://github.com/schlagmichdoch/pairdrop)
 * ⭐ **[JustBeamIt](https://justbeamit.com/)**
-* ⭐ **[SpaceDrop](https://spacedrop.app/)**
 * [Surge](https://getsurge.io/) - P2P App / [GitHub](https://github.com/rule110-io/surge)
 * [ToffeeShare](https://toffeeshare.com/) / [GitHub](https://github.com/ToffeeShare)
 * [new.space](https://new.space/)
-* [FilePizza](https://file.pizza/) / [GitHub](https://github.com/kern/filepizza)
 * [WebWormhole](https://webwormhole.io/) / [GitHub](https://github.com/saljam/webwormhole)
 
 ***
@@ -314,7 +311,7 @@
 * ⭐ **[Gofile](https://gofile.io/)** - 100GB Monthly / Unlimited / 10 Days After Last Download / [Manager Export](https://greasyfork.org/en/scripts/515250)
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - 10GB / 60 Days After Last Download (10% min) / [Speedtest](https://pixeldrain.com/speedtest)
 * ⭐ **[VikingFile](https://vikingfile.com/)** - Unlimited / 15 Days After Last Download / [Discord](https://discord.gg/EPEFC6KkpF)
-* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) / [Discord](https://discord.gg/ttQjgC28WP)
+* ⭐ **[Buzzheavier](https://buzzheavier.com/)**, [2](https://fuckingfast.net/), [3](https://bzzhr.co/) - Unlimited / 15 Days After Last Download / [File Expiry](https://buzzheavier.com/help) / [Discord](https://discord.gg/ttQjgC28WP) / [Warning](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/buzzheavier-warning.md) 
 * ⭐ **[⁠Rootz](https://rootz.so/)** - 25GB / 15 Days After Last Download / Unlimited for Backstage Users / [Discord](https://discord.com/invite/rtz)
 * ⭐ **[Catbox](https://catbox.moe/)** - 200MB / Forever / [Proxy](https://fatbox.moe/)
 * ⭐ **[Pillowcase](https://pillows.su/)** - Audio File Host / 200MB (500MB w/ Account) / Forever
@@ -362,9 +359,12 @@
 * [FileDitch](https://fileditch.com/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
 * [⁠DataVaults](https://datavaults.co/) - 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up
+* [FileGo](https://filego.at/) - 5GB / 90 Days After Last Download
 * [Bestfile](https://bestfile.io/) - 5GB / 80 Days After Last Download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
+* [⁠JuiceBox](https://box.juicey.dev/) - 15GB / 14 Days
+* [⁠reusable.host](https://reusable.host/) - 10GB / 30 Days
 * [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Requires Email
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
@@ -413,6 +413,7 @@
 * [Blomp](https://www.blomp.com/) - 40GB Free / 1 Month / ~$3 for 2TB
 * [Backblaze B2](https://www.backblaze.com/cloud-storage/) - 10GB Free / ~$6 for 1TB
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
+* [⁠Tresorit](https://tresorit.com/) - 3GB / Forever / 500 Per File / ~$12 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 
